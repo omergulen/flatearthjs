@@ -1,2 +1,3 @@
-# flatearthjs
-A new JS framework you will fall love in.
+# FlatEarthJS
+
+Aren't you bored of your current JS Framework you loved so much at the time because everyone else did? You cannot keep using the same framework this long. Aren't you ashamed of sticking with that old clunky JS framework of yours? Well, guess what!? Everyone else is already flywing away from your TheNexBigJS framework to this new, promises-to-fix-all-the-problems-you-had-before JS framework, which we called FlatEarthJS. It is as real and beautiful as the Flat Earth itself. Come on in, join the movement. Star the repo, fork it, have fun with it. After all, this is all open source. Tell everyone how it solved your problems. And please record some video tutorials on YouTube. By acting early, you might have the most viewed and liked video tutorial on YouTube.  
